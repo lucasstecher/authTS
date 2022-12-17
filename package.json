@@ -1,0 +1,7 @@
+{
+  "name": "authTS",
+  "version": "1.0.0",
+  "description": "Authorization service using Node and Typescript",
+  "main": "index.js",
+  "license": "MIT"
+}
